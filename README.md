@@ -1,3 +1,3 @@
 # nagelsbijten
 
-Site die bijhoudt hoelang ik al niet heb nagelsgebeten.
+Site die bijhoudt hoelang Laura al niet heeft nagelsgebeten.
